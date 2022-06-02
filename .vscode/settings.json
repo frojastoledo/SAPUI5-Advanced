@@ -1,0 +1,4 @@
+// @ts-nocheck
+{
+    "[xml].editor.defaultFormatter": "dotjoshjohnson.xml"
+}
